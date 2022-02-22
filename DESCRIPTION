@@ -1,0 +1,12 @@
+Package: traitsigdbr
+Title: Bacterial Trait Signatures Database in R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Quang", "Nguyen", , "quangpmnguyen@gmail.com", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-2072-3279"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
